@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anirban-cludo
+- 👋 Hi, I’m @Anirban
 - 📫 How to reach me ... anirban@cludotechnology.in
 
 <!---
