@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anirban
-- 📫 How to reach me ... anirban@cludotechnology.in
+- 📫 Reach me ... anirban@cludotechnology.in
 
 <!---
 Anirban-cludo/Anirban-cludo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
